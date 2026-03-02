@@ -9,6 +9,7 @@
   background-color: #227c9d;
   transition: all 0.2s ease;
   text-decoration: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #4d36d0be;
 }
 
 .button:hover {color: #fff;}
@@ -118,6 +119,8 @@
   border-radius: 6px;
   text-decoration: none;
 }
+
+.cssbuttons-io-button:hover{color: #fff;}
 
 .cssbuttons-io-button svg {
   margin-right: 8px;
